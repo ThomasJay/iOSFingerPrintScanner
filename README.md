@@ -15,14 +15,14 @@ You will see that once you click on the finger print button, the system will pro
 
 Note that in iOS8 and above the User Fallback prompt no longer appears by default, it must fail the fingerprint scan a couple of times and it will then appear. This is different then on iOS7 where it always appeared.
 
-Scann Button
+Scan Button
 ![screenshot](https://github.com/ThomasJay/iOSFingerPrintScanner/blob/master/home.png)
 
 System Auth Prompt
 ![screenshot](https://github.com/ThomasJay/iOSFingerPrintScanner/blob/master/auth.png)
 
 System Auth Prompt with user fallback
-![screenshot](https://github.com/ThomasJay/iOSFingerPrintScanner/blob/master/auth_enterpasword.png)
+![screenshot](https://github.com/ThomasJay/iOSFingerPrintScanner/blob/master/auth_enterpassword.png)
 
 User Fall Back user name and password prompt
 ![screenshot](https://github.com/ThomasJay/iOSFingerPrintScanner/blob/master/login.png)
